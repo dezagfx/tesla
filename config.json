@@ -1,0 +1,14 @@
+{
+    "m3": {
+        "endpoint": "https://www.tesla.com/inventory/api/v1/inventory-results?query=%7B%22query%22%3A%7B%22model%22%3A%22m3%22%2C%22condition%22%3A%22new%22%2C%22options%22%3A%7B%7D%2C%22arrangeby%22%3A%22Relevance%22%2C%22order%22%3A%22desc%22%2C%22market%22%3A%22PT%22%2C%22language%22%3A%22pt%22%2C%22super_region%22%3A%22north%20america%22%2C%22lng%22%3A-9.0656%2C%22lat%22%3A38.8691%2C%22zip%22%3A%222625-640%22%2C%22range%22%3A0%2C%22region%22%3A%22PT%22%7D%2C%22offset%22%3A0%2C%22count%22%3A50%2C%22outsideOffset%22%3A0%2C%22outsideSearch%22%3Afalse%7D",
+        "carUrl": "https://www.tesla.com/pt_PT/m3/order/",
+        "carImage": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=1&view=STUD_3QTR&size=1400&model=m3",
+        "referral": "ruben526258"
+    },
+    "my": {
+        "endpoint": "https://www.tesla.com/inventory/api/v1/inventory-results?query=%7B%22query%22%3A%7B%22model%22%3A%22my%22%2C%22condition%22%3A%22new%22%2C%22options%22%3A%7B%7D%2C%22arrangeby%22%3A%22Relevance%22%2C%22order%22%3A%22desc%22%2C%22market%22%3A%22PT%22%2C%22language%22%3A%22pt%22%2C%22super_region%22%3A%22north%20america%22%2C%22lng%22%3A-9.0656%2C%22lat%22%3A38.8691%2C%22zip%22%3A%222625-640%22%2C%22range%22%3A0%2C%22region%22%3A%22PT%22%7D%2C%22offset%22%3A0%2C%22count%22%3A50%2C%22outsideOffset%22%3A0%2C%22outsideSearch%22%3Afalse%7D",
+        "carUrl": "https://www.tesla.com/pt_PT/my/order/",
+        "carImage": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=1&view=STUD_3QTR&size=1400&model=my",
+        "referral": "ruben526258"
+    }
+}
